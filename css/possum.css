@@ -3,3 +3,7 @@ body {
   background-color: silver;
   text-align: center;
 }
+
+.image{
+  max-height:500px;
+}
